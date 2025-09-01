@@ -7,9 +7,9 @@ RFM is a powerful technique in marketing analytics to understand customer behavi
 
 ### Dataset
 This project uses the online retail dataset from Kaggle - (https://www.kaggle.com/datasets/vijayuv/onlineretail).
-###Project Workflow
+### Project Workflow
 
-##Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 Converted dates to datetime format.
 

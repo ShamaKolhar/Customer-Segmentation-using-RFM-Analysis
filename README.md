@@ -1,3 +1,4 @@
+#### Customer Segmentation using RFM Analysis
 ### Overview
 
 This project performs RFM (Recency, Frequency, Monetary) analysis on e-commerce transaction data to segment customers into actionable groups such as Champions, Potential Loyalists, and At Risk customers.

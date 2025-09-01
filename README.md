@@ -1,4 +1,4 @@
-#### Customer Segmentation using RFM Analysis
+### Customer Segmentation using RFM Analysis
 ### Overview
 
 This project performs RFM (Recency, Frequency, Monetary) analysis on e-commerce transaction data to segment customers into actionable groups such as Champions, Potential Loyalists, and At Risk customers.
@@ -62,10 +62,10 @@ Many customers fall into the Potential group, an opportunity for targeted campai
 At Risk customers (long recency, previously high frequency) need re-engagement strategies.
 
 ### Project Structure
-RFM-Analysis/
-│── data/                 # raw and processed datasets
-│── notebooks/            # main analysis notebook
-│── outputs/              # plots and RFM segment results
-│── README.md             # project documentation
+RFM-Analysis/  
+│── data/                 # raw and processed datasets  
+│── notebooks/            # main analysis notebook  
+│── outputs/              # plots and RFM segment results  
+│── README.md             # project documentation  
 
 Author : Shama Kolhar

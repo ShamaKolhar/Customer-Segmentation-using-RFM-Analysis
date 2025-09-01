@@ -1,4 +1,4 @@
-###Overview
+### Overview
 
 This project performs RFM (Recency, Frequency, Monetary) analysis on e-commerce transaction data to segment customers into actionable groups such as Champions, Potential Loyalists, and At Risk customers.
 
@@ -18,7 +18,7 @@ Created an Amount = Quantity × UnitPrice column.
 
 Aggregated to order-level transactions.
 
-##RFM Calculation
+## RFM Calculation
 
 Recency: Days since last purchase.
 
@@ -26,7 +26,7 @@ Frequency: Number of unique purchases.
 
 Monetary: Total spend.
 
-##Scoring & Segmentation
+## Scoring & Segmentation
 
 Scored R, F, M into quintiles (1–5) using pd.qcut.
 
@@ -42,7 +42,7 @@ Potential Loyalists
 
 At Risk / Lost
 
-##Visualization & Insights
+## Visualization & Insights
 
 Histograms for Recency, Frequency, and Monetary distributions.
 
@@ -50,7 +50,7 @@ Log transformation for skewed Monetary distribution.
 
 Bar charts of customer segments with counts and percentages.
 
-###Insights
+### Insights
 
 Majority of customers are low-frequency, low-spend buyers.
 
@@ -60,7 +60,7 @@ Many customers fall into the Potential group, an opportunity for targeted campai
 
 At Risk customers (long recency, previously high frequency) need re-engagement strategies.
 
-###Project Structure
+### Project Structure
 RFM-Analysis/
 │── data/                 # raw and processed datasets
 │── notebooks/            # main analysis notebook
